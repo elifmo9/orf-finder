@@ -8,7 +8,8 @@ Whether you're studying genetics, learning bioinformatics, or building something
 
 ## 🚀 Features
 
-- ✅ Reads DNA sequences from a file  
+- ✅ Example DNA sequence and RNA sequence files available to give it a try!
+- ✅ Reads DNA sequences from a file
 - ✅ Detects and classifies DNA vs. RNA  
 - ✅ Finds the **first valid ORF** (from ATG to a stop codon)  
 - ✅ Scans for **all potential ORFs** across the sequence  
